@@ -65,7 +65,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### Github Streak: ❤️‍🔥 
  <div align=center>
   
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naseerx&theme=shades-of-purple)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zarq-khan&theme=shades-of-purple)](https://git.io/streak-stats)
   
 </div>
 
