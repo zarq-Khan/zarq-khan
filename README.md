@@ -49,7 +49,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 
  <div align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=naseerx&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+ <img src="https://github-readme-stats.vercel.app/api?username=zarq-khan&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
  </div>
 
 
@@ -58,7 +58,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### My Languages: 🕶️:
 <div align=center>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naseerx&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarq-khan&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </div>
 
  
@@ -72,7 +72,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### Github Activity: 🎆
  
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=naseerx&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=zarq-khan&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 
 -----
